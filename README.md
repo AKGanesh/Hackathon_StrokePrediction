@@ -127,3 +127,9 @@ For any queries, please send an email (id on github profile)
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Screenshots - EDA
+
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/1.jpg" width="200" height="100">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/2.jpg" width="200" height="100">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/3.jpg" width="200" height="100">
