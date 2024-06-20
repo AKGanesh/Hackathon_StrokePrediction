@@ -1,4 +1,4 @@
-<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/heart.png" width="300" height="150">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/heart.jpg" width="800" height="500">
 # Hackathon - Stroke Prediction
 
 The goal of this competition is to figure out if a person will experience a stroke based on their age, nature of work, urban/rural residence, marital status, and several clinical levels.
@@ -129,6 +129,6 @@ For any queries, please send an email (id on github profile)
 
 ## Screenshots - EDA
 
-<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/1.png" width="300" height="150">
-<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/2.png" width="300" height="150">
-<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/3.png" width="300" height="150">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/1.png" width="600" height="450">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/2.png" width="600" height="450">
+<img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/images/3.png" width="600" height="450">
