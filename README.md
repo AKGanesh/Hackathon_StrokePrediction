@@ -72,7 +72,9 @@ Columns:
 
 ## Observations
 
-- I have tried with Logistic Regression, SVM and Random Forest Classifier. After using the techniques for imbalanced data, All started giving good outcome. Random Forest performed better than the others in this situation. Rely on f1score than accuracy score, its been observed initially even though the accuracy score is high the outcome is bad. RFC performed better than SVM(weight=Balanced). Feature selection is also playing a key role on the outcome, choose that technique wisely. Finally, I tried to apply Hyperparameter tuning using GridSearchCV, this also has an impact on the final outcome in a positive way.
+- I have tried with Logistic Regression, SVM and Random Forest Classifier. After using the techniques for imbalanced data, All started giving good outcome. Random Forest performed better than the others in this situation.
+- Rely on f1score than accuracy score, its been observed initially even though the accuracy score is high the outcome is bad. RFC performed better than SVM(weight=Balanced). Feature selection is also playing a key role on the outcome, choose that technique wisely.
+- Finally, I tried to apply Hyperparameter tuning using GridSearchCV, this also has an impact on the final outcome in a positive way.
 
 ## Libraries
 
