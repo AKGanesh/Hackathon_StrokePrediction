@@ -1,5 +1,6 @@
 <img src="https://github.com/AKGanesh/Hackathon_StrokePrediction/blob/main/heart.jpg" width="800" height="500">
-# Hackathon - Stroke Prediction
+
+## Hackathon - Stroke Prediction
 
 The goal of this competition is to figure out if a person will experience a stroke based on their age, nature of work, urban/rural residence, marital status, and several clinical levels.
 
